@@ -1,0 +1,14 @@
+pyproject.toml
+src/__init__.py
+src/main.py
+src/bot/__init__.py
+src/core/__init__.py
+src/core/config.py
+src/exchange/__init__.py
+src/gridbot.egg-info/PKG-INFO
+src/gridbot.egg-info/SOURCES.txt
+src/gridbot.egg-info/dependency_links.txt
+src/gridbot.egg-info/requires.txt
+src/gridbot.egg-info/top_level.txt
+tests/test_config.py
+tests/test_placeholder.py

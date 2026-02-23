@@ -1,0 +1,12 @@
+grid:
+  symbol: "BTCUSDT"
+  mode: "LONG"
+  initial_capital_amount: 100.0
+  initial_capital_asset: "USDT"
+  range_pct_bottom: -0.10
+  range_pct_top: 0.10
+  grid_intervals: 20
+  check_interval_minutes: 5
+  fee_rate: 0.001
+
+dry_run: true
